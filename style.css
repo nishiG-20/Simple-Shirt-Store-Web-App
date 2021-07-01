@@ -1,0 +1,45 @@
+img {
+    height: 200px;
+    width: 150px;
+}
+
+.bd {
+    border: 2px solid green;
+}
+
+.fix-size2 {
+    display: block;
+    margin-left: 117px
+}
+
+.rdClr {
+    color: red;
+}
+
+.mr {
+    margin-left: 110px;
+}
+
+.blue {
+    background-color: blue;
+    color:white;
+    display: inline-block;
+    width: 570px;
+}
+
+.white{
+    background-color: white;
+}
+
+.st{
+    border: 2px solid red;
+}
+
+.ml{
+    margin-left:20px;
+}
+
+.imgMgn{
+    
+    margin-left: 266px
+}
